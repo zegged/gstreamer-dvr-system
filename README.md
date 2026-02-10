@@ -1,4 +1,9 @@
-# homesystem
+# Low-Latency GStreamer DVR System
+...
+### 🚀 Key Features
+* **Low-Latency Streaming:** Optimized H.264 over UDP pipelines.
+* **Cross-Platform:** Scripts for Linux, Windows, and OSX.
+* **Broadcast Support:** Integration with **DVB-T/DVB-S** tuners for capturing digital RF video transmissions.
 
 ## device instructions
 
